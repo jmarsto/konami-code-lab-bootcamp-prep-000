@@ -5,5 +5,5 @@ function init() {
 }
 
 body.addEventListener('keydown', function(e) {
-  alert('YEEEEEEHAWWWWWW!!!'))
-}
+  alert('YEEEEEEHAWWWWWW!!!')
+})
