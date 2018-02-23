@@ -4,4 +4,6 @@ function init() {
   const body = document.querySelector('body')
 }
 
-body.addEventListener('keydown', function(e))
+body.addEventListener('keydown', function(e)) {
+  alert('YEEEEEEHAWWWWWW!!!')
+}
