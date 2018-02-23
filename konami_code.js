@@ -10,6 +10,7 @@ body.addEventListener('keydown', function(e) {
     index++;
     if (index === code.length) {
       alert("YEEEEEHAW!");
+      index = 0;
     }
   } else {
     index = 0;
